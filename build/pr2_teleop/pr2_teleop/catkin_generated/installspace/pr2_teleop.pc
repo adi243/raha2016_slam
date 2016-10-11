@@ -1,0 +1,8 @@
+prefix=/home/aditya/raha2016_slam/install
+
+Name: pr2_teleop
+Description: Description of pr2_teleop
+Version: 0.5.20
+Cflags: 
+Libs: -L/home/aditya/raha2016_slam/install/lib 
+Requires: 
